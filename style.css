@@ -1,3 +1,8 @@
+body{
+    background-color:burlywood;
+    color: black;
+}
+
 .eni-images img{
     border-radius: 70%;
 }
@@ -7,10 +12,11 @@ margin-left: 3%;
 }
 button{
     background-color: black;
-    color: white ;
+    color: red ;
     padding: 10px;
 
 }
 button a{
     color: white;
 }
+
